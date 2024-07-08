@@ -1,22 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>European Travel Urban Destination</title>
-  <style>
-    div.container {
-        border: 5px solid #FFFF00;
-    }
-    div.left, div.middle, div.right{
-        border: 3px dotted green;
-        width: 33%;
-    } 
-    aside img{
-        width: 100%;
-    }
-  </style>
+  <link rel="stylesheet" href="CSS/styles.css">
 </head>
+
 <body>
     <div class="container">
         <head>
